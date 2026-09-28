@@ -1,4 +1,4 @@
-YOLO Fabric Defect Detection
+# YOLO Fabric Defect Detection
 
 Fabric defects detect karne ke liye YOLO model.
 
